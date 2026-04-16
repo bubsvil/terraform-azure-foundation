@@ -1,4 +1,4 @@
-project     = "bruna"
+project     = "foundation"
 environment = "dev"
 
 tags = {
@@ -8,4 +8,5 @@ tags = {
   id_orcamento  = "fin-2026-001"
   managed_by    = "terraform"
   business_unit = "cloud"
+  project       = "foundation"
 }
